@@ -1,0 +1,144 @@
+.tophead{
+    background-color: lightgray;
+    margin-top: -18px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.top1{
+    font-size: 50px;
+    font-weight: 500px;
+}
+.tasklist{
+    background-color: white;
+}
+.tl{
+    margin-left: 107px;
+    padding: 7px;
+}
+
+.top2{
+    font-size: 50px;
+    font-weight: 500px;
+    color: blue; 
+}
+.right{
+    border: 2px solid lightgray;
+    height: 72px;
+    width: 200px;
+    position: absolute;
+    right: 255px;
+    margin-top: 5px;
+    padding-top: 31px; 
+}
+.right2{
+    position: relative;
+    left: 151px;
+}
+.left2{
+    position: relative;
+    left: 30px;
+}
+.button{
+    background-color: blue;
+    border-radius: 60%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    display: inline-block;
+}
+.back{
+    
+    border-radius: 60%;
+    width: 30px;
+    height: 30px;
+    border: none;
+}
+.new{
+  display: inline-block;
+
+}
+.container{
+    padding: 90px;
+    
+    width: 80%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.box{ 
+    height: 250px;
+    width: 290px;
+    border: 2px solid white;
+    padding: 10px;
+    margin: 30px;
+    background-color: white;
+    border-radius: 11px;
+}
+.box:hover{
+    background-color: rgb(160, 153, 153);
+    box-shadow: 4px 2px 6px 6px green;
+}
+.heading{
+    color: blue;
+    text-decoration: none;
+    text-align: center;
+}
+.heading2{
+    color: blue;
+    text-decoration: none;
+
+}
+.line{
+    text-decoration: line-through;
+}
+.line2{
+    text-decoration: none;
+}
+.sachin{
+    filter: opacity(50%);
+    background-color: rgb(113, 108, 108);
+}
+.paris{
+    height: 220px;
+    width: 430px;
+    margin: 50px;
+    position: absolute;
+    top: 75px;
+    left: 481px;  
+}
+.second{
+    height: 220px;
+    width: 430px;
+    border: 2px solid white;
+    background-color: white;
+    position: absolute;
+    top: 160px;
+    left: 472px;
+    border-radius: 11px;
+}
+.additem{
+    margin-left: 8px;
+}
+.c{
+    margin: 8px;
+    border: 2px solid white;
+    background-color: lightgray;
+    padding: 7px;
+}
+.task{
+    
+    border: 2px solid green;
+    background-color: blue;
+    padding: 6px;
+    margin: -2px;
+    display: inline;
+    position: absolute;
+    left: 334px;
+}
+.large{
+    transform: scale(2);
+}
+
+
+
